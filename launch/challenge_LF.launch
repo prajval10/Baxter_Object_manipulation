@@ -1,0 +1,10 @@
+<launch>
+	
+	<node name="listener" pkg="emaro_challenge" type="listener">		
+	</node>
+
+
+	<node name="lookup" pkg="emaro_challenge" type="lookup"  >		
+	</node>
+
+</launch>
